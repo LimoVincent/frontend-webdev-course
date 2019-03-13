@@ -1,5 +1,2 @@
-# frontend-webdev-course
 
-
-
-Vincent Kipruto Limo
+VINCENT KIPRUTO LIMO - frontend-webdevevelopment-course
